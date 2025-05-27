@@ -1,6 +1,6 @@
 # Save Village
 
-<img src="D:\Unity\Module_7(Village_old comp)\Assets\Sprites\Save Village.jpg" alt="Gameplay Preview" width="600"/>
+<img src="Assets/Sprites/Save Village.jpg" alt="Gameplay Preview" width="600"/>
 
 ## Description
 
